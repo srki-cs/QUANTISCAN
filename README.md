@@ -1,7 +1,7 @@
 # QUANTISCAN
 
 
-A computational mathematics and simulation framework evaluating the absolute physical reconstruction boundaries of **Filtered Backprojection (FBP)** algorithms under low-dose quantum noise constraints.
+A computational mathematics and simulation framework evaluating the absolute physical reconstruction boundaries of **Filtered Backprojection (FBP)** algorithm under low-dose quantum noise constraints.
 
 ---
 
